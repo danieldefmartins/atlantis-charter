@@ -288,6 +288,11 @@ p { margin-bottom: 1rem; }
   margin-top: 1rem;
 }
 
+.nav-links .nav-cta,
+.nav-links .nav-cta:hover {
+  color: var(--midnight);
+}
+
 .nav-cta::after {
   display: none !important;
 }
