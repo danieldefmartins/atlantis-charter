@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+
+# Original unoptimized source images in root (keep optimized images/ folder)
+/*.jpg
+/*.jpeg
+/*.mov
+/*.mp4
