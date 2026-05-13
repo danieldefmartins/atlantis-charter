@@ -234,7 +234,7 @@ p { margin-bottom: 1rem; }
 }
 
 .logo__img {
-  height: 40px;
+  height: 70px;
   width: auto;
   filter: brightness(0) invert(1);
   transition: opacity var(--transition);
@@ -891,7 +891,7 @@ section {
 }
 
 .footer-brand .logo__img {
-  height: 44px;
+  height: 80px;
   filter: brightness(0) invert(1);
 }
 
